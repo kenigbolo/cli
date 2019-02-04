@@ -35,7 +35,7 @@
     "run-sequence": "^2.1.0",
     "sequelize": "^4.0.0",
     "sqlite3": "^3.1.8",
-    "through2": "^2.0.3"
+    "through2": "^3.0.0"
   },
   "scripts": {
     "test": "gulp"
